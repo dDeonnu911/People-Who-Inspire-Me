@@ -17,7 +17,7 @@ h2 {
 
 img {
     width: 350px;
-    text-align: center
+    <div align="center">...</div>
 }
 
 
