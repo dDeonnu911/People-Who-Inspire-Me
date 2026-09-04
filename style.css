@@ -1,16 +1,17 @@
 body {
     background-color: #F8C8DC;
-    font-family: monoid;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
+    font-family: monoid;
     color: #FFFF00;
     text-align: center;
 }
 
 h2 {
+    font-family: mononoki;
     color: #a0ced9;
     text-align: center;
 }
