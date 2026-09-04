@@ -1,12 +1,12 @@
 body {
-    background-color: #e7e7e7;
+    background-color: #FFC0CB;
     font-family: sans-serif;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
 h1 {
-    color: darkblue;
+    color: #B0E0E6;
     text-align: center;
 }
 
@@ -19,4 +19,7 @@ img {
     width: 350px;
 }
 
+p {
+    font-size: 50px;
+}
 
