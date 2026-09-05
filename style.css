@@ -1,5 +1,5 @@
 body {
-    background-color: #D1EFBD;
+    background-color: #F2CF2A;
     padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
@@ -7,14 +7,14 @@ body {
 h1 {
     font-size: 70px;
     font-family: monoid;
-    color: #89D385;
+    color: #AA7F66;
     text-align: center;
 }
 
 h2 {
     font-size: 50px;
     font-family: mononoki;
-    color: #6CD1F0;
+    color: #7F5836;
     text-align: center;
 }
 
@@ -24,7 +24,7 @@ img {
 }
 
 p {
-    color: #A1A1F7;
+    color: #443025;
     font-size: 32px;
     text-align: center;
     font-family: Sudo;
@@ -32,6 +32,6 @@ p {
 
 hr {
     border: none;
-    border-top: 3px dashed #EFCCEA;
+    border-top: 3px dashed #EC9C9D;
 }
 
