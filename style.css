@@ -30,3 +30,8 @@ p {
     font-family: Sudo;
 }
 
+hr {
+    border: none;
+    border-top: 3px dashed #C9A0DC;
+}
+
